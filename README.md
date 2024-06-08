@@ -1,6 +1,6 @@
 # Azure_AI_900
 
-
+[Exam Guide by microsoft ](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900)
 
 Here are some key terms and concepts that are commonly covered on the Microsoft AI-900 exam:
 
