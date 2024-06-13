@@ -16,6 +16,9 @@ __Certification (after passing this exam):__ [Microsoft Certified: Azure AI Fund
 
 - [Training lab resources for azure Ai-900](https://github.com/MicrosoftLearning/AI-900-AIFundamentals)
 
+
+### Best Resources Exam Question
+- [Exam Topics](https://www.examtopics.com/exams/microsoft/ai-900/view/)
 Here are some key terms and concepts that are commonly covered on the Microsoft AI-900 exam:
 
 - Artificial Intelligence (AI) – The simulation of human intelligence processes by computer systems, including learning, reasoning, and self-correction.
