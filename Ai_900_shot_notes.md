@@ -41,7 +41,7 @@ For experienced data scientists, Azure offers hosted Jupyter Notebooks in the Az
 ### Jupyter Notebook on Azure
 
 Azure also offers a drag-and drop designer allowing data scientists to create training and evaluation pipelines that can take in data sets and perform training and predictions. This relies on some knowledge of machine learning algorithms, but does not necessarily involve coding (though Python and R programming tasks can be incorporated).
-https://res.cloudinary.com/practicaldev/image/fetch/s--T2dN7Y3h--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://i1.wp.com/killalldefects.com/wp-content/uploads/2021/11/MLDesigner.png%3Fresize%3D770%252C459%26ssl%3D1
+
 ### ML Designer
 
 For those without extensive knowledge of machine learning algorithms or those who are not certain which algorithm might be best for their needs, there is the option of Automated ML. With Automated ML Azure will automatically try different machine learning techniques until it finds one that performs well enough to meet your needs. This dramatically increases the accessibility of machine learning, though care must still be taken creating sets of data and devising machine learning experiments.
@@ -67,7 +67,7 @@ The exam covers computer vision fairly extensively, though it is not as much of 
 
 - Computer Vision – pre-trained solutions that can meet a variety of needs around object detection and image classification. This can also identify celebrities and landmarks.
 - Custom Vision – an area that allows you to use the capabilities of Computer Vision, but you must provide your own training images and train a vision model
-- Face – specializing in face detection and analysis. This can be used to identify individuals, map landmarks of faces, identify emotions, detect glasses and makeup, classify gender, and identify similar individuals. The last two aspects of this API concerns me for obvious potential abuses, however.
+- Face – specializing in face detection and analysis. This can be used to identify individuals, map landmarks of faces, identify emotions, detect glasses and makeup, classify gender, and identify similar individuals. The last two aspects of this API concern me for obvious potential abuses, however.
 - Optical Character Recognition – Allows computer vision to identify text either with its quick OCR library or the more asynchronous Read API designed to handle larger volumes of content
 - Form Recognizer – a specialized area of computer vision designed to read tabular data and receipts
 Overall, these are surprisingly capable solutions that can be added fairly easily to applications. I’ve just never had explicit interest in building something that requires these technologies yet.
