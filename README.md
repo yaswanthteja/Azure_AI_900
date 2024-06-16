@@ -19,6 +19,7 @@ __Certification (after passing this exam):__ [Microsoft Certified: Azure AI Fund
 
 ### Best Resources Exam Question
 - [Exam Topics](https://www.examtopics.com/exams/microsoft/ai-900/view/)
+- [braindumps](https://free-braindumps.com/microsoft/free-ai-900-braindumps.html/)
 
 
 
