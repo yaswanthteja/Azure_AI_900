@@ -5,7 +5,7 @@
 ![AI-900 Banner](https://i.imgur.com/iM3VRJQ.png)
 
 # Purpose
-I created this repository to help you prepare for the AI-900 exam. Unlike other exams, this one is simple as long as you understand the content covered in the official [learning paths](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900). Working through practice questions helped me pass this exam on the first try. [Verify my certification]()
+I created this repository to help you prepare for the AI-900 exam. Unlike other exams, this one is simple as long as you understand the content covered in the official [learning paths](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900). Working through practice questions helped me pass this exam on the first try. [Verify my certification](https://learn.microsoft.com/en-us/users/yaswanthtejayarlagadda-2774/credentials/d1ed78d5f7a916b9?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 __Official Website:__ [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
 
