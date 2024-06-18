@@ -37,7 +37,7 @@ Here are some key terms and concepts that are commonly covered on the Microsoft 
 - Understand Data preprocessing – The process of cleaning and preparing data before it can be used for analysis or modeling.
 - Data labelling – The process of annotating data with labels or tags to enable supervised learning.
 - Model evaluation – The process of assessing the accuracy and performance of machine learning models.
-- Overfitting – In machine learning, there’s a frequent issue when a model is too complicated and closely follows the training data, leading to not-so-great performance on fresh data.
+- Overfitting – In machine learning, there’s a frequent issue when a model is too complicated and closely follows the training data, leading to a not-so-great performance on fresh data.
 - Deployment – The process of deploying machine learning models to production environments or integrating them with other applications.
 - Ethics and responsible AI – The importance of ethical considerations when developing and deploying AI solutions, such as transparency, fairness, and privacy.
 - Explainable AI – The ability of AI systems to provide clear explanations of their decision-making processes and recommendations.
@@ -52,4 +52,16 @@ Here are some tips and tricks for the Microsoft AI-900 exam:
 - Use official Microsoft resources: Microsoft provides a variety of free resources for the AI-900 exam, including a study guide, sample questions, and reference material. Make sure to use these resources to prepare for the exam.
 - Take practice tests: Take advantage of practice tests to gauge your knowledge and identify areas where you need to focus your studies.
 - Manage your time: The exam has a time limit of 60 minutes. Make sure you manage your time effectively and don’t spend too much time on any single question.
+
+
+### Test Pattern(2024)
+
+- First login 30 minutes before the chosen slot time.
+- Next, you can see the document verification process to verify we need to use mobile for uploading the documents.
+- 
+- The Actual Test consists of 45 minutes(without verification process time ) with 44 questions  which contains
+   - Multiple Questions Answers
+   - Drag and drop
+   - Scenario-based Questions
+
 
