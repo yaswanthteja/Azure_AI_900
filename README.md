@@ -54,11 +54,11 @@ Here are some tips and tricks for the Microsoft AI-900 exam:
 - Manage your time: The exam has a time limit of 60 minutes. Make sure you manage your time effectively and don’t spend too much time on any single question.
 
 
-### Test Pattern(2024)
+### online Test Pattern(2024)
 
 - First login 30 minutes before the chosen slot time.
-- Next, you can see the document verification process to verify we need to use mobile for uploading the documents.
-- 
+- Next, you can see the document verification process to verify we need to use mobile for uploading the documents of your government ID proof and your exam desk pictures(the place where you're writing the exam ) and upload them as instructed.
+- Later you will be connected with the proctor for a room verification process They will ask you to show the entire room through the webcam of your laptop after completion of verification they will let you enter the exam at your scheduled time.
 - The Actual Test consists of 45 minutes(without verification process time ) with 44 questions  which contains
    - Multiple Questions Answers
    - Drag and drop
